@@ -11,5 +11,5 @@ SUM=$(($NUMBER1+$NUMBER2))
 
 echo "Total of $NUMBER1 and $NUMBER2 is: $SUM"
 
-#echo "Product of $NUMBER1 and $NUMBER2 is: $(($NUMBER1*$NUMBER2))"
-#echo "Difference of $NUMBER1 and $NUMBER2 is: $(($NUMBER1-$NUMBER2))"
+echo "Product of $NUMBER1 and $NUMBER2 is: $(($NUMBER1*$NUMBER2))"
+echo "Difference of $NUMBER1 and $NUMBER2 is: $(($NUMBER1-$NUMBER2))"
